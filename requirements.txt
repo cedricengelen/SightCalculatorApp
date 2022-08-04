@@ -1,0 +1,4 @@
+kivy==2.1.0
+kivymd==0.104.2
+python==3.9.6
+pillow==9.2.0
